@@ -15,7 +15,7 @@ form.addEventListener("submit", async function (e) {
     if (searchTerm) { // Ensures the search field is not empty
         try {
             // Makes an API request to TVMaze using Axios
-            const res = await axios.get(`http://api.tvmaze.com/search/shows?q=${searchTerm}`);
+            const res = await axios.get(`https://api.tvmaze.com/search/shows?q=${searchTerm}`);
             makeImages(res.data); // Passes the retrieved data to the makeImages function
         } catch (error) {
             // Handles any errors that occur during the API request
