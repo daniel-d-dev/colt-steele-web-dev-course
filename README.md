@@ -1,2 +1,2 @@
 # The Web Developer Bootcamp
-## Udemy Course by Colt Steele
+## Udemy Course by Colt Steele
