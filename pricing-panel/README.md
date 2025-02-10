@@ -9,5 +9,5 @@ A sleek and responsive pricing panel showcasing three different pricing tiers: P
 * Responsive design with media queries
 
 ## Credits
-* This pricing table is based on a CodePen by [Travis Williamson]([url](https://codepen.io/travisw)).
+* This pricing table is based on a CodePen by [Travis Williamson](https://codepen.io/travisw).
 * The images used in the project were created by Colt Steele.
