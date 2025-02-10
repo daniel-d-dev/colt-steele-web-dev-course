@@ -5,6 +5,6 @@ The Museum of Candy project is a vibrant and visually engaging web page that sho
 
 ## Technologies Used
 * HTML
-* CSS: Uses Flexbox
-* Bootstrap: Used for responsiveness and layout grid
-* jQuery: Used to create the sticky navigation effect when scrolling
+* CSS: Uses Flexbox.
+* Bootstrap: Used for responsiveness and layout grid.
+* jQuery: Used to create the sticky navigation effect when scrolling.
