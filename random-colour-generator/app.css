@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    font-family: Montserrat, sans-serif;
+    transition: background-color 0.5s ease;
+}
+
+.header-container {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 5px 10px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    transition: background 0.5s ease;
+}
+
+h1 {
+    font-size: 2.5 rem;
+    margin-bottom: 20px;
+    transition: color 0.5s ease;
+}
+
+button {
+    padding: 5px 10px;
+    border-radius: 8px;
+    border: 1px solid #000;
+    cursor: pointer;
+}
+
+button:hover {
+    transform: scale(1.05);
+}
+
+button:active {
+    transform: scale(0.95);
+}
