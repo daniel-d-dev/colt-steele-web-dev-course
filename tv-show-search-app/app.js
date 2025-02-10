@@ -2,7 +2,7 @@
 const form = document.querySelector("#searchForm");
 const resultsContainer = document.querySelector("#results");
 
-// 📦 Appending the results container to the body
+// Appending the results container to the body
 document.body.appendChild(resultsContainer);
 
 // Event listener for the form submission
